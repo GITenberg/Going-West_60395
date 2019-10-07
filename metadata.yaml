@@ -1,0 +1,27 @@
+_repo: Going-West_60395
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, Basil
+    alias: King, William Benjamin Basil
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '3214'
+    url: http://www.gutenberg.org/2009/agents/3214
+    wikipedia: https://en.wikipedia.org/wiki/Basil_King
+description: ''
+gutenberg_issued: '2019-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60395'
+  lccn: '19013844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- GITenberg
+title: Going West
+url: http://www.gutenberg.org/ebooks/60395
